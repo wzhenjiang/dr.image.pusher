@@ -17,10 +17,10 @@ registry
 
 # desktop AI (ignore as for no free space)
 ## t2txt
-# ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:main
 #-# ghcr.io/open-webui/open-webui:cuda
 ## t2img
-# yanwk/comfyui-boot:cu124-cn
+yanwk/comfyui-boot:cu124-cn
 #-# yanwk/comfyui-boot:cu128-megapak
 
 # os images
