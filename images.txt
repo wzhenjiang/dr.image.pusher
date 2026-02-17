@@ -1,6 +1,36 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# datstore service images
+## alist
+xhofe/alist
+#-# 指定架构 --platform=linux/arm64 xiaoyaliu/alist
+## book
+linuxserver/calibre-web
+## ds-ddns 
+jeessy/ddns-go
+## registry
+registry
+## images used before
+#-# nginx
+#-# jc21/nginx-proxy-manager
+#-# wordpress
+#-# mysql:5.7
+#-# linuxserver/mariadb:latest
+
+# desktop AI (ignore as for no free space)
+## t2txt
+# ghcr.io/open-webui/open-webui:main
+#-# ghcr.io/open-webui/open-webui:cuda
+## t2img
+# yanwk/comfyui-boot:cu124-cn
+#-# yanwk/comfyui-boot:cu128-megapak
+
+# os images
+## ubuntu
+#-# ubuntu
+## debian
+#-# debian
+## centos
+#-# centos
+
+# vpn images
+## v2ray
+#-# v2ray/official
