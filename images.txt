@@ -16,6 +16,8 @@ registry
 #-# linuxserver/mariadb:latest
 
 # desktop AI (ignore as for no free space)
+## ollama webui
+ghcr.io/ollama-webui/ollama-webui:main
 ## t2txt
 ghcr.io/open-webui/open-webui:main
 #-# ghcr.io/open-webui/open-webui:cuda
