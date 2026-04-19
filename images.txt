@@ -36,3 +36,8 @@ yanwk/comfyui-boot:cu124-cn
 # vpn images
 ## v2ray
 #-# v2ray/official
+
+# game
+## wow
+trinitycore/trinitycore:3.3.5
+trinitycore/trinitycore:master
