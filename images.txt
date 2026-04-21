@@ -27,7 +27,7 @@ yanwk/comfyui-boot:cu124-cn
 
 # os images
 ## ubuntu
-#-# ubuntu
+ubuntu:22.04
 ## debian
 #-# debian
 ## centos
