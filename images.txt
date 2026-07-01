@@ -24,6 +24,8 @@ ghcr.io/open-webui/open-webui:main
 ## t2img
 yanwk/comfyui-boot:cu124-cn
 #-# yanwk/comfyui-boot:cu128-megapak
+## remove-backgroup
+withoutbg/app:latest
 
 # os images
 ## ubuntu
